@@ -1,0 +1,7 @@
+#ifndef TRANSISTOR_CONFIG_H
+#define TRANSISTOR_CONFIG_H
+
+#define BASEDPORT    PORTA
+#define BASEDPIN     PIN0
+
+#endif
